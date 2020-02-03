@@ -251,11 +251,6 @@ function OurStory(_ref) {
 // <Header state={state} actions={actions}/>
 // <Button state={state} actions={actions}/>
 
-/*
-SOURCES:
-https://425magazine.com/wp-content/uploads/2017/01/John-Howie-Steak-Exec-Chef-Mark-Hipkiss-slicing-42-day-custom-aged-steaks-.jpg
-*/
-
 /***/ }),
 /* 6 */
 /***/ (function(module, exports, __webpack_require__) {
